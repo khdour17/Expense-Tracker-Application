@@ -90,19 +90,9 @@ npm run lint
 - Budgets are stored by month with a total limit and per-category limits.
 - Settings currently store the selected currency symbol.
 
-## Publishing notes
-
-- This project is ready to publish as a GitHub repository with a single README.
-- If you want screenshots in the repo, add them under `assets/` and reference them here.
-- Because all data is local, users can try the app immediately after install with no backend setup.
-
 ## App highlights
 
 - Dashboard summary with budget awareness.
 - Spend analysis by category.
 - Receipt photo support for expenses.
 - Clean, lightweight UI built for quick mobile entry.
-
-## License
-
-Add your preferred license before publishing if you want the repository to be reusable by others.
